@@ -23,6 +23,10 @@ This is my first element of layout practice, for which I decided to use Frontend
 
 ![](images/qr-code-component-screenshot.png)
 
+### Links
+
+-   Live Site URL: (https://golz29.github.io/qr-code-component/)
+
 ## My process
 
 ### Built with
